@@ -50,7 +50,7 @@ INSERT INTO `clientes` (`id_Cliente`, `dni`, `nombre`, `apellido`, `telefono`, `
 (3, 44752772, 'Mauricio', 'Reta', 2664301099, 'B110M519C05', 2664343655, 0);
 (4, 42778631, 'Facundo', 'Lopez Cozzella', 2665245922, 'Mujeres de mi tierra 1690', 2664000089, 1);
 (5, 42238525, 'Agustin', 'Mazza', 2664262501, 'Los Zorzales 558', 2664000056, 0);
-(5, 46654654, 'Jeremias', 'Hoyo', 2664123456, 'La Quiaca', 2664006756, 1);
+(6, 46654654, 'Jeremias', 'Hoyo', 2664123456, 'La Quiaca', 2664006756, 1);
 
 -- --------------------------------------------------------
 
