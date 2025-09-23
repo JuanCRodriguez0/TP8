@@ -47,6 +47,10 @@ CREATE TABLE `clientes` (
 INSERT INTO `clientes` (`id_Cliente`, `dni`, `nombre`, `apellido`, `telefono`, `direccion`, `contacto_alternativo`, `activo`) VALUES
 (1, 42357107, 'Juan Cruz', 'Rodriguez', 2664572404, 'Licitación, 2 Manzana 116, Casa 02', 2664001122, 1),
 (2, 38751080, 'Jeremias', 'Sirur Flores', 2664634076, 'B114M189C18', 2664787978, 1);
+(3, 44752772, 'Mauricio', 'Reta', 2664301099, 'B110M519C05', 2664343655, 0);
+(4, 42778631, 'Facundo', 'Lopez Cozzella', 2665245922, 'Mujeres de mi tierra 1690', 2664000089, 1);
+(5, 42238525, 'Agustin', 'Mazza', 2664262501, 'Los Zorzales 558', 2664000056, 1);
+(5, 46654654, 'Jeremias', 'Hoyo', 2664123456, 'La Quiaca', 2664006756, 0);
 
 -- --------------------------------------------------------
 
